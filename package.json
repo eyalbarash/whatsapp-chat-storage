@@ -1,0 +1,19 @@
+{
+  "name": "greenapi_mcp_972549990001",
+  "version": "1.0.0",
+  "description": "This project provides a Model Context Protocol (MCP) server that integrates WhatsApp functionality with Claude Desktop using Green API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "moment": "^2.30.1",
+    "puppeteer": "^24.22.0",
+    "qrcode-terminal": "^0.12.0",
+    "sqlite3": "^5.1.7"
+  }
+}

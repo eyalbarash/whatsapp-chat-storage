@@ -1,0 +1,20 @@
+# Green API Configuration
+# Get these values from your Green API dashboard at https://console.green-api.com/
+# Copy this file to .env and fill in your actual values
+
+# Your Green API Instance ID
+GREENAPI_ID_INSTANCE=your_instance_id_here
+
+# Your Green API Token
+GREENAPI_API_TOKEN=your_api_token_here
+
+# Green API URL (usually no need to change)
+GREENAPI_API_URL=https://api.green-api.com
+
+# Database Configuration (optional)
+DATABASE_PATH=whatsapp_chats.db
+MEDIA_PATH=media
+
+# Logging Configuration (optional)
+LOG_LEVEL=INFO
+
